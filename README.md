@@ -1,1 +1,3 @@
-# yaditya007.cv
+---
+permalink:/404/.html 
+---
